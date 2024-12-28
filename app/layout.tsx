@@ -13,8 +13,8 @@ const Navbar = dynamic(() => import("@/components/layout/navbar"), {
 });
 
 export const metadata: Metadata = {
-  title: "Lataklak",
-  description: "lataklak",
+  title: "Lataklak Pro",
+  description: "إستشارة قانونية سريعة",
 };
 
 export default function RootLayout({
