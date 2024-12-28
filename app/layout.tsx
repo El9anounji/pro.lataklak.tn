@@ -13,8 +13,9 @@ const Navbar = dynamic(() => import("@/components/layout/navbar"), {
 });
 
 export const metadata: Metadata = {
-  title: "Lataklak Pro",
-  description: "إستشارة قانونية سريعة",
+  title: "صفحة الاستشارة",
+  description: "إستشارة قانونية سريعة عن بعد في أي مجال قانوني ومن غير ما تتحرك من مكانك
+",
 };
 
 export default function RootLayout({
