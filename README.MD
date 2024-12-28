@@ -1,4 +1,4 @@
-# lata9la9 designed by liwa
+# Lataklak Pro designed by Mohamed Ali
 
 ## <a href="https://ui.shadcn.com/" target="_blank">Shadcn</a> + <a href="https://nextjs.org/" target="_blank">Next.js</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
 
